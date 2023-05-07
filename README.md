@@ -35,4 +35,9 @@ Com este dashboard, a loja pode tomar decisões baseadas em dados precisos e atu
 
 https://user-images.githubusercontent.com/126920974/236704316-8e7f00b4-7e89-4bed-a905-3677fec2c877.mp4
 
+## Modelo Snowflake ❄️
+
+![image](https://user-images.githubusercontent.com/126920974/236704442-473c3d5a-99fd-400e-a8ee-33b8b2811f94.png)
+
+
 
