@@ -26,7 +26,7 @@ Com este dashboard, a loja pode tomar decisões baseadas em dados precisos e atu
 2. Mesclar ou anexar consultas para combinar dados de várias consultas uma só
 3. Selecionar dados para inclusão, limpar e remover erros
 4. Definir cálculos (medidas) para gerar novos campos para o uso em relatórios
-5. Gerenciar relações
+5. Gerenciar relações (modelo snowflake)
 6. Delimitar colunas
 7. Ajustar categorias de dados
 
