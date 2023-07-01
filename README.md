@@ -9,7 +9,6 @@ O dashboard foi projetado para fornecer informações cruciais sobre as vendas a
 
 Com este dashboard, a loja pode tomar decisões baseadas em dados precisos e atualizados, tornando mais fácil identificar oportunidades de melhoria e implementar estratégias para alavancar o faturamento.
 
-![image](https://user-images.githubusercontent.com/126920974/236702996-01aa3cf9-da4a-4a6e-baf0-d8ea7f85f035.png)
 ## Indicadores 📍
 
 - Faturamento previsto
